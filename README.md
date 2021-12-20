@@ -10,8 +10,8 @@ Required:
 
 
 ```bash
-git clone https://github.com/Wonderland-Money/wonderland-frontend.git
-cd wonderland-frontend
+git clone https://github.com/haris-aqeel/Wonderland.git
+cd Wonderland
 yarn install
 npm run start
 ```
